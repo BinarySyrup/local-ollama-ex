@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/.idea/
+
+# Python packaging metadata
+*.egg-info/
+
+# Local virtual environment
+.venv/
